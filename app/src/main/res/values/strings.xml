@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="rs">
+    <string name="app_name">Restoran Marina</string>
+    <string name="btn2Text">NARUCI</string>
+    <string name="hrana">Odaberite hranu:</string>
+    <string name="Jelo1">Hrskava piletina 300gr</string>
+    <string name="Jelo2">Girice 300gr</string>
+    <string name="Jelo3">Pomfrit 300gr</string>
+    <string name="pice">Odaberite pice:</string>
+    <string name="Pice1">Pivo Jelen 0.5</string>
+    <string name="Pice2">Pivo Lav 0.5</string>
+    <string name="Pice3">Pivo Zajecarsko 0.5</string>
+    <string name="Pice4">Pivo Zajecarsko psenicno 0.5</string>
+    <string name="Pice5">Pivo Zajecarsko tamno 0.5</string>
+    <string name="Pice6">Rakija 0.1</string>
+    <string name="Pice7">Viski 0.02</string>
+    <string name="isporuka">Odaberite nacin isporuke</string>
+    <string name="komentar">Napisite nam komentar:</string>
+    <string name="isporuka1">Za poneti</string>
+    <string name="isporuka2">Posluziti u restoranu</string>
+    <string name="bill">Racun</string>
+    <string name="porudzbina">Vasa porudzbina</string>
+    <string name="toastText1">Narudzbina je poslata</string>
+    <string name="toastText2">Dostava je poslata</string>
+    <string name="toastText3">Molimo Vas da unesete ispravnu komandu</string>
+    <string name="Odluka">Nova narudzbina ili Nova porudzbina</string>
+    <string name="NovaNarudzbina">Nova Narudzbina</string>
+    <string name="NovaDostava">Nova dostava</string>
+    <string name="Pice8">Vino 0.7</string>
+    <string name="Jelo4">Piletina 4 vrste sira</string>
+    <string name="Jelo5">Pizza</string>
+    <string name="Jelo6">Sarma</string>
+    <string name="Jelo7">Iznenadjenje sefa kuhinje</string>
+</resources>

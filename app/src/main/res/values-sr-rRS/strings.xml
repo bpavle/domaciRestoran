@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ресторан Марина</string>
+    <string name="btn2Text">НАРУЧИ</string>
+    <string name="hrana">Одаберите храну:</string>
+    <string name="Jelo1">Хрскава пилетина 300гр</string>
+    <string name="Jelo2">Гирице 300гр</string>
+    <string name="Jelo3">Помфрит 300гр</string>
+    <string name="pice">Одаберите пиће:</string>
+    <string name="Pice1">Пиво Јелен 0.5</string>
+    <string name="Pice2">Пиво Лав тамно 0.5</string>
+    <string name="Pice3">Пиво Зајечарско  0.5</string>
+    <string name="isporuka">Одаберите начин испоруке:</string>
+    <string name="komentar">Напишите нам коментар:</string>
+    <string name="isporuka1">За понети</string>
+    <string name="isporuka2">Послужити у ресторану</string>
+    <string name="bill">Рачун</string>
+    <string name="porudzbina">Ваша поруџбина</string>
+    <string name="Pice4">Пиво Зајечарско пшенично 0.5</string>
+    <string name="Pice5">Пиво Зајечарско тамно 0.5</string>
+    <string name="Pice6">Ракија 0.1</string>
+    <string name="Pice7">Виски 0.02</string>
+    <string name="toastText1">Наруџбина је послата</string>
+    <string name="toastText2">Достава је послата</string>
+    <string name="toastText3">Молимо Вас да унесете исправну команду</string>
+    <string name="Odluka">Нова наруџбина или Нова поруџбина</string>
+    <string name="NovaNarudzbina">Нова наруџбина</string>
+    <string name="NovaDostava">Нова достава</string>
+    <string name="Pice8">Вино 0.7</string>
+    <string name="Jelo4">Пилетина 4 врсте сира</string>
+    <string name="Jelo5">Пица</string>
+    <string name="Jelo6">Сарма</string>
+    <string name="Jelo7">Изненађење шефа кухиње</string>
+</resources>
