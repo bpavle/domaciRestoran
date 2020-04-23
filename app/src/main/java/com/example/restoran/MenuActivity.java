@@ -37,7 +37,7 @@ public class MenuActivity extends AppCompatActivity  {
         ArrayList<String> listaHrane=new ArrayList<>();
         ArrayList<String> listaPica=new ArrayList<>();
 
-        listaHrane.add(getString(R.string.Jelo1));
+        listaHrane.add(this.getString(R.string.Jelo1));
         listaHrane.add(getString(R.string.Jelo2));
         listaHrane.add(getString(R.string.Jelo3));
         listaHrane.add(getString(R.string.Jelo4));
