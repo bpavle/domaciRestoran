@@ -60,7 +60,20 @@ public class TotalActivity extends AppCompatActivity {
                 * */
                 EditText editText = findViewById(R.id.editText2);
                 String odluka = editText.getText().toString();
-                if(!odluka.equals("nova narudzbina") && !odluka.equals("nova porudzbina")) {
+                if(
+                        !odluka.equals("nova narudzbina") &&
+                        !odluka.equals("Nova narudzbina")&&
+                        !odluka.equals("Nova narudžbina") &&
+                        !odluka.equals("nova narudžbina")&&
+                        !odluka.equals("нова наруџбина") &&
+                        !odluka.equals("Нова наруџбина") &&
+                                !odluka.equals("nova porudzbina") &&
+                                !odluka.equals("Nova porudzbina") &&
+                                !odluka.equals("Nova porudžbina") &&
+                                !odluka.equals("nova porudžbina") &&
+                                !odluka.equals("нова поруџбина")  &&
+                                !odluka.equals("Нова поруџбина")
+                ) {
                     Toast toast = Toast.makeText(TotalActivity.this,R.string.toastText3,Toast.LENGTH_LONG);
                     View toastView = toast.getView();
                     toast.setText(R.string.toastText3);

@@ -86,6 +86,7 @@
         app:layout_constraintTop_toBottomOf="@id/sl2"
 
         />
+
     <EditText
         android:id="@+id/editText2"
         android:layout_width="0dp"
@@ -94,8 +95,7 @@
         app:layout_constraintBottom_toTopOf="@id/button3"
         app:layout_constraintLeft_toRightOf="@id/imageButton"
         app:layout_constraintRight_toLeftOf="@id/imageButton2"
-        app:layout_constraintTop_toBottomOf="@id/sl2"
-        />
+        app:layout_constraintTop_toBottomOf="@id/sl2" />
     <Button
         android:id="@+id/button3"
         style="@style/buttonStyle"

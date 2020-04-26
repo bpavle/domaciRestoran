@@ -117,12 +117,30 @@ public class MenuActivity extends AppCompatActivity  {
 
         String odluka =getIntent().getStringExtra(zaPrenos2);
         if(odluka!=null)
-        if(odluka.equals("nova narudzbina")){
+        if(
+                odluka.equals("nova narudzbina") ||
+                odluka.equals("Nova narudzbina")||
+                odluka.equals("Nova narudžbina") ||
+                odluka.equals("nova narudžbina")||
+                odluka.equals("нова наруџбина") ||
+                odluka.equals("Нова наруџбина")
+        )
+        {
             ((RadioButton) findViewById(R.id.radioButton1)).setChecked(true);
         }
-        else if(odluka.equals("nova porudzbina")){
+        else if(
+
+                        odluka.equals("nova porudzbina") ||
+                        odluka.equals("Nova porudzbina")||
+                        odluka.equals("Nova porudžbina") ||
+                        odluka.equals("nova porudžbina")||
+                        odluka.equals("нова поруџбина") ||
+                        odluka.equals("Нова поруџбина")
+
+        ){
             ((RadioButton) findViewById(R.id.radioButton2)).setChecked(true);
         }
+
 
 
     }
